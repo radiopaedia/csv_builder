@@ -10,9 +10,6 @@ Gem::Specification.new do |s|
   s.email    = 'code@econsultancy.com'
   s.homepage = 'http://github.com/dasil003/csv_builder'
 
-  s.add_runtime_dependency(%q<fastercsv>)
-
-  s.has_rdoc = true
   s.rdoc_options = ["--main", "README.rdoc"]
   s.extra_rdoc_files = %w(README.rdoc CHANGELOG.rdoc MIT-LICENSE)
 
